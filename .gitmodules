@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/sxu3/sxu3.github.io.git
+	branch = main
