@@ -18,26 +18,26 @@ organizations:
     url: https://www.tum.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - NLP in LegalTech
   - Computational Linguistics
-  - Information Retrieval
+  - Computational Social Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD student in Computer Science
+    #   institution: Technical University of Munich
+    #   year: 2021 - present
+    - course: M.A. in Cultural and Cognitive Linguistics
+      institution: Ludwig Maximilian University of Munich
+      year: 2017
+    - course: B.A. in General and Indoeuropean Linguistics
+      institution: Ludwig Maximilian University of Munich
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,22 +46,23 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:shanshan.xu@tum.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/shanshan_xu3
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.de/citations?user=dSDjjCEAAAAJ=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sxu3
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shanshan-xu33/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hi, I am a PhD student of [Legal Tech](https://www.in.tum.de/legaltech/home/) in the [Department of Informatics](https://www.in.tum.de/en/cover-page/) at the [Technical University of Munich](https://www.tum.de/en/). Before transferring my PhD to TUM, I was a PhD student at [L3S Research Center](https://www.l3s.de/en). Previous to that, I worked as a speech scientist at [Nuance Communications](https://www.nuance.com/index.html)/[Cerence](https://www.cerence.com/). I did my master in [Cultural and Cognitive Linguistics](https://www.ats.uni-muenchen.de/studium_lehre/master/index.html) at [LMU Munich](https://www.lmu.de/en/index.html). My research interest is NLP in LegalTech, Computational Social Science and Computational Linguistics. 
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
