@@ -1,12 +1,14 @@
 ---
-title: 'Extractive Summarization of Legal Decisions using Multi-task Learning and Maximal Marginal Relevance'
+title: 'Attack on Unfair ToS Clauses Detection: A Case Study using Universal Adversarial Triggers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - Abhishek Agarwal 
+authors: 
   - admin
+  - Irina Broda
+  - Rashid Haddad
+  - Marco Negrini
   - Matthias Grabmair
 
 # Author notes (optional)
@@ -27,8 +29,8 @@ publishDate: '2022-10-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In * Findings of The 2022 Conference on Empirical Methods in Natural Language Processing*
-publication_short: In *Findings of EMNLP 2022*
+publication: In *The 2022 Conference on Empirical Methods in Natural Language Processing*
+publication_short: In *NLLP @ EMNLP 2022*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -38,7 +40,7 @@ publication_short: In *Findings of EMNLP 2022*
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
