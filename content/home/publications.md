@@ -31,8 +31,13 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
-  # Choose a view for the listings:
-  view: list
+  # Choose a view for the listings: 
+#   List (1)
+# Compact (2)
+# Card (3)
+# Citation (4)
+
+  view: Citation
   columns: '1'
 ---
 

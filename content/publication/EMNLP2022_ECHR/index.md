@@ -46,12 +46,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.460.pdf'
+url_pdf: 'https://arxiv.org/pdf/2210.13836.pdf'
 # # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://huggingface.co/datasets/sxu/CANLI'
-url_poster: ''
-url_project: ''
-url_slides: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 
