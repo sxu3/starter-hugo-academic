@@ -38,7 +38,7 @@ design:
 # Citation (4)
 
   view: Citation
-  columns: '1'
+  columns: '2'
 ---
 
 <!-- {{% callout note %}}
