@@ -78,5 +78,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I am a PhD student of [Legal Tech](https://www.in.tum.de/legaltech/home/) in the [Department of Informatics](https://www.in.tum.de/en/cover-page/) at the [Technical University of Munich](https://www.tum.de/en/). Before transferring my PhD to TUM, I was a PhD student at [L3S Research Center](https://www.l3s.de/en). Previous to that, I worked as a speech scientist at [Nuance Communications](https://www.nuance.com/index.html)/[Cerence](https://www.cerence.com/). I did my master in [Cultural and Cognitive Linguistics](https://www.ats.uni-muenchen.de/studium_lehre/master/index.html) at [LMU Munich](https://www.lmu.de/en/index.html). My research interest is NLP in LegalTech, Computational Social Science and Computational Linguistics. 
+Hi, I am a PhD student of [Legal Tech](https://www.in.tum.de/legaltech/home/) in the [Department of Informatics](https://www.in.tum.de/en/cover-page/) at the [Technical University of Munich](https://www.tum.de/en/). Previous to that, I worked as a speech scientist at [Nuance Communications](https://www.nuance.com/index.html)/[Cerence](https://www.cerence.com/). I did my master in [Cultural and Cognitive Linguistics](https://www.ats.uni-muenchen.de/studium_lehre/master/index.html) at [LMU Munich](https://www.lmu.de/en/index.html). My research interest is NLP in LegalTech, Computational Social Science and Computational Linguistics. 
+
+I am also an organizer of [Munich🥨NLP](https://munich-nlp.github.io/), where I have organized [get-together event](https://munich-nlp.github.io/events/women-get-together-in-nlp/) to support and encourage women in NLP, and am committed to promoting diversity and inclusivity in the field.
+
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
