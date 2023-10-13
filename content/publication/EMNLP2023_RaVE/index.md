@@ -1,13 +1,15 @@
 ---
-title: 'Deconfounding Legal Judgment Prediction towards Better Alignment with Experts for the European Court of Human Rights'
+title: 'From Dissonance to Insights: Dissecting Disagreements in Rationale Dataset Construction for Case Outcome Classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Santosh T.Y.S.S 
   - admin
+  - Santosh T.Y.S.S 
   - Oana Ichim
+  - Isabella Risini
+  - Barbara Plank
   - Matthias Grabmair
 
 # Author notes (optional)
@@ -19,7 +21,7 @@ author_notes:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-06T00:00:00Z'
+publishDate: '2023-10-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +30,8 @@ publishDate: '2022-10-06T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 2022 Conference on Empirical Methods in Natural Language Processing*
-publication_short: In *EMNLP 2022 Oral*
+publication: In *The 2023 Conference on Empirical Methods in Natural Language Processing*
+publication_short: In *Accepted at EMNLP 2023*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -46,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2210.13836.pdf'
+# url_pdf: 'https://arxiv.org/pdf/2210.13836.pdf'
 # # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://huggingface.co/datasets/sxu/CANLI'
 # url_poster: ''
