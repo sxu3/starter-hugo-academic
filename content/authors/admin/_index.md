@@ -22,9 +22,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - NLP in LegalTech
-  - Computational Linguistics
-  - Computational Social Science
+ - Uncertainty-aware NLP
+ - Human Label Variation 
+ - Legal NLP
+ - Computational Social Science
 
 # Education to show in About widget
 education:
@@ -71,6 +72,8 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
+#  [School of CIT](https://www.cit.tum.de/cit/startseite/)
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -78,7 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I am a PhD student of the [Legal Tech Group](https://www.cs.cit.tum.de/lt/home/) at the [TU Munich](https://www.tum.de/en/) [School of CIT](https://www.cit.tum.de/cit/startseite/), where I am advised by [Matthias Grabmair](https://www.cs.cit.tum.de/lt/team/matthias-grabmair/). I am affiliated with the [MaiNLP at LMU](https://mainlp.github.io/), and mentored by [Barbara Plank](https://bplank.github.io/). Previous to that, I worked as a speech scientist at [Nuance Communications](https://www.nuance.com/index.html)/[Cerence](https://www.cerence.com/). I did my master in [Cultural and Cognitive Linguistics](https://www.ats.uni-muenchen.de/studium_lehre/master/index.html) at [LMU Munich](https://www.lmu.de/en/index.html). My research interest is NLP in LegalTech, Computational Social Science and Computational Linguistics. 
+Hi, I am a PhD student of the [Legal Tech Group](https://www.cs.cit.tum.de/lt/home/) at the [TU Munich](https://www.tum.de/en/), where I am advised by [Matthias Grabmair](https://www.cs.cit.tum.de/lt/team/matthias-grabmair/). I am affiliated with the [MaiNLP at LMU](https://mainlp.github.io/), and mentored by [Barbara Plank](https://bplank.github.io/). Previous to that, I worked as a speech scientist at [Nuance Communications](https://www.nuance.com/index.html)/[Cerence](https://www.cerence.com/). I did my master in [Cultural and Cognitive Linguistics](https://www.ats.uni-muenchen.de/studium_lehre/master/index.html) at [LMU Munich](https://www.lmu.de/en/index.html). My research interest is NLP in LegalTech, Computational Social Science and Computational Linguistics. 
 
 I am also an organizer of [Munich🥨NLP](https://munich-nlp.github.io/), where I have organized [get-together event](https://munich-nlp.github.io/events/women-get-together-in-nlp/) to support and encourage women in NLP, and am committed to promoting diversity and inclusivity in the field.
 

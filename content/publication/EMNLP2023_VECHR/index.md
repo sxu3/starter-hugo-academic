@@ -31,7 +31,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 2023 Conference on Empirical Methods in Natural Language Processing*
-publication_short: In *Accepted at EMNLP 2023*
+publication_short: In *Accepted to EMNLP 2023*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://arxiv.org/pdf/2210.13836.pdf'
+url_pdf: 'https://arxiv.org/pdf/2310.11368.pdf'
 # # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://huggingface.co/datasets/sxu/CANLI'
 # url_poster: ''
